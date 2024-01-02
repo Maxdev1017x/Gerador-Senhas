@@ -12,6 +12,7 @@ Este é um projeto simples que gera senhas seguras para os usuários.
 2. Clique no botão "Gerar Senha".
 3. A senha gerada será exibida na tela.
 4. Clique no ícone de cópia para copiar a senha para a área de transferência.
+5. Você também pode ver o projeto em funcionamento acessando https://gerador-senhas-plum.vercel.app/
 
 ## Recursos
 
